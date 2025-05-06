@@ -1,1 +1,17 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+.Trashes
+Spotlight-V100/
+TemporaryItems/
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# VSCode
+.vscode/
 
