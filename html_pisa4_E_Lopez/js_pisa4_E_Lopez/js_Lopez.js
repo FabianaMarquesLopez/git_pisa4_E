@@ -5,20 +5,20 @@ document.addEventListener("DOMContentLoaded", () => {
   const capitulos = [
     {
       titulo:
-        "Economía verde y circular aplicada a en nuestro sector productivo",
+        "2. Economía verde y circular aplicada a en nuestro sector productivo",
       archivo: "../html_pisa4_E_Lopez/2_ra5_economia_verde_circular_Lopez.html",
     },
     {
-      titulo: "Estrategias sostenibles  en nuestro sector productivo",
+      titulo: "5. Estrategias sostenibles  en nuestro sector productivo",
       archivo: "../html_pisa4_E_Lopez/5_ra5_estrategias_sostenibles_Lopez.html",
     },
     {
-      titulo: "Normativa ambiental aplicable nuestro sector productivo",
+      titulo: "8. Normativa ambiental aplicable nuestro sector productivo",
       archivo:
         "../html_pisa4_E_Lopez/8_ra5_normativa_ambiental_aplicable_Lopez.html",
     },
     {
-      titulo: "Estrategias sostenibles en empresas TIC",
+      titulo: "11. Estrategias sostenibles en empresas TIC",
       archivo:
         "../html_pisa4_E_Lopez/11_ra5_analisis_aspectos_ASG_Lopez.html",
     },
