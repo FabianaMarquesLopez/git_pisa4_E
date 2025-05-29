@@ -8,19 +8,19 @@ document.addEventListener("DOMContentLoaded", () => {
 
   const capitulos = [
     {
-      titulo: "Modelo de producción y consumo actual",
+      titulo: "1. Modelo de producción y consumo actual",
       archivo: "../1_ra5_modelo_de_produccion_y_consumo_actual_Marques.html",
     },
     {
-      titulo: "Ecodiseño y eficiencia en productos tecnológicos",
+      titulo: "4. Ecodiseño y eficiencia en productos tecnológicos",
       archivo: "../4_ra5_ecodiseno_y_eficiencia_en_productos tecnologicos_Marques.html",
     },
     {
-      titulo: "Producción sostenible en la industria tecnológica",
+      titulo: "7. Producción sostenible en la industria tecnológica",
       archivo: "../7_ra5_produccion_sostenible_en_la_industria_tecnologica_Marques.html",
     },
     {
-      titulo: "Identificación de grupos de interés",
+      titulo: "10. Identificación de grupos de interés",
       archivo: "../10_ra5_identificacion_de_grupos_de_interes_Marques.html",
     },
   ];
